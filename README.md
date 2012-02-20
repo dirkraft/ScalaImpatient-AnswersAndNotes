@@ -1,4 +1,4 @@
-Hi. If you are reading this, you are brave, brave person. I have collected my answers to <i>Scala for the Impatient</i>
+Hi. If you are reading this, you are brave, brave person. I have collected my answers to _Scala for the Impatient_
 since I could not find a complete set of answers anywhere.
 
 My environment is of Scala 2.9.1, which some of the examples questions in the text do not seem to match. The text does

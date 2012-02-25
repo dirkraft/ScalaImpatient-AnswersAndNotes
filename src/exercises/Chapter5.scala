@@ -2,7 +2,7 @@ package exercises
 import scala.reflect.BeanProperty
 
 // Not doing the massive '.' omission this time. Going for best balance of concise (Scala generally good for this) and
-// most readable (Scala generally not so good for this), in my humble and perhaps naïve opinion.
+// most readable (Scala generally not so good for this), in my humble and perhaps naÃ¯ve opinion.
 object Chapter5 extends App {
   // 1
   // copied and modified from page 52

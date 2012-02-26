@@ -59,7 +59,7 @@ object Chapter7Runner extends App {
       for ((k,v) <- jMap)  sMap.put(k,v)
       sMap
     }
-    val jMap = new JavaHashMap[String, Integer]();
+    val jMap = new JavaHashMap[String, Int]();
     jMap.put("one", 1)
     jMap.put("two", 2)
     jMap.put("three", 3)

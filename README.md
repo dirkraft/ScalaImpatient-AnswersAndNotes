@@ -1,7 +1,7 @@
 Hi. If you are reading this, you are brave, brave person. I have collected my answers to _Scala for the Impatient_
 since I could not find a complete set of answers anywhere.
 
-My environment is of Scala 2.9.1, which some of the examples questions in the text do not seem to match. The text does
+My environment is of Scala 2.9.1 using Scala IDE/Eclipse, which some of the examples questions in the text do not seem to match. The text does
 not indicate the version it was written against, and so I have no idea and have not yet been able to infer. Answers that
 seem out of alignment in the text have been commented on as such. I also google a lot in answering, since the questions
 often say to "search the scala doc", which is extremely difficult for a newbie. Suffice it to say, some answers may

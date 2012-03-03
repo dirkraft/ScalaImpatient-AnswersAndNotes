@@ -38,4 +38,7 @@ public class Chapter5_Java {
 					+ licensePlate;
 		}
 	}
+
+	public static final String s1 = "This String should print for \"Chapter 9 #6\"";
+	public static final String s2 = "This one as well \\ no problem.";
 }

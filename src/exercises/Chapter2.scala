@@ -11,8 +11,9 @@ object Chapter2 extends App {
   // Type = Unit, value = () 'no useful value'
 
   // 3
-  // FAIL don't know TODO
-
+  // This forces x to receive the Unit () value, which is the return of the assignment of y = 1
+  val x = y = 1
+      
   // 4
   for (i <- 10 to (0, -1)) println(i)
 

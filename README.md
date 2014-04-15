@@ -10,6 +10,3 @@ include tricks not yet introduced explicitly in the text.
 This is my first earnest effort to learn Scala (as a derivative interest to the
 <a href="https://github.com/playframework/play">Play</a> (2.0) framework), and so far that I've seen. There are often
 many atomically-concise styles of answering problems with equivalent outcomes, but perhaps non-equivalent nuances.
-
-Thoughts without validation inherit the dangers of an unsound mind. So I hope this helps someone out there realize, that
-in learning Scala, they are no more crazy than the rest of us who write Scala. And that to myself as well.

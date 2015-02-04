@@ -18,7 +18,7 @@ object Chapter2 extends App {
   for (i <- 10 to (0, -1)) println(i)
 
   // 5
-  def countdown(n: Int) = {
+  def countdown(n: Int) {
     for (n <- n to (0, -1)) print(n)
   }
   countdown(5)
